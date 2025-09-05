@@ -6,4 +6,7 @@ I also added a project called Customer Churn used in it:-
 1- Gaussian Naive Bayes Classifier to make prediction.
 2- Added a py file to deploy the app and website of the prediction model and data
 
-
+notebook model prediction :- Customer Churn Prediction.ipynb
+streamlit file to deploy :- GUI_Churn_Prediction
+deploy requirements.txt file :- requirements.txt
+model : Customer Churn Prediction.pkl
