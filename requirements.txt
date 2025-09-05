@@ -3,4 +3,5 @@ numpy
 pandas
 joblib
 matplotlib
+sklearn
 openpyxl
