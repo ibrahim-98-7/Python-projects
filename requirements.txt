@@ -3,5 +3,5 @@ numpy
 pandas
 joblib
 matplotlib
-sklearn
 openpyxl
+scikit-learn
