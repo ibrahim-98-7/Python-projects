@@ -53,7 +53,7 @@ fig.tight_layout()
 ax.axis('equal') 
 st.pyplot(fig)
 
-# Making a background for the website
+
 def get_base64_of_bin_file(bin_file):
     with open(bin_file, 'rb') as f:
         data = f.read()
@@ -75,6 +75,5 @@ def set_background(png_file):
     '''
     st.markdown(page_bg_img, unsafe_allow_html=True)
 
-# Example usage:
-# Make sure 'your_image.png' is in the same directory as your Streamlit app file
-set_background("vuenehz8qwzvsdw7isxf.png") 
+set_background("abstract-infographic-visualization-financial-chart-600nw-2428087473.webp") 
+
